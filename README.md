@@ -1,2 +1,2 @@
 # KonstantinosSevastosAssignment
-Portofolio Website
+Computing Company Website
